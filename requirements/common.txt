@@ -1,0 +1,4 @@
+Django==2.0.4
+djangorestframework==3.8.2
+djangorestframework-simplejwt==3.2.3
+django-extra-fields==1.0.0
